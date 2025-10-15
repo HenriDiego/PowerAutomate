@@ -1,0 +1,21 @@
+# Criação de sites e Permissionamento.
+
+## Objetivo: Criar atravez de uma lista Subsites com uma estrutura de pasta de documentos e dar permissões para esses sites.
+
+## Gatilho: Quando um item é criado em uma lista.
+
+##Ações Principais
+
+1. Enviar Solicitação HTTP no SHarePoint
+2. Listar Presentes em uma Tabela
+3. Criar Nova Pasta
+4. Obter Metadados Usando um Caminho
+5. Permitir Acesso a um Item
+
+##Conectores Utilizados
+
+##Visão
+
+##Observações
+- Fluxo anonimizado para exemplo público.
+
