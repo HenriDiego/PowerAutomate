@@ -11,7 +11,7 @@ Repositório público com exemplos e automações que desenvolvi no Power Automa
 ##Estrutura
 | Fluxo | Descrição | Link |
 |-------|------------|------|
-| Criação de Subsites | Automatiza a criação de Subsites com estrutura padrão para cada item adicionado a uma lista do Sharepoint |  [Ver fluxo]([./fluxos/CriacaoDeSubsitesEPermissionamento](https://github.com/HenriDiego/PowerAutomate/blob/435baf0b976be54249d2e15f6504ddf3c08c1f4b/CriacaoDeSubsitesEPermissionamento)) |
+| Criação de Subsites | Automatiza a criação de Subsites com estrutura padrão para cada item adicionado a uma lista do Sharepoint |  [Ver fluxo](CriacaoDeSubsitesEPermissionamento) |
 
 ---
 
