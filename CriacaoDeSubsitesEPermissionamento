@@ -1,5 +1,3 @@
-![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/27449d941de1bc0c4642b9a03baa816bdc5cf478/DiagramaCriacaodeSitesParte1.jpg?raw=true)
-
 # Criação de sites e Permissionamento.
 
 ## Objetivo: Criar atravez de uma lista Subsites com uma estrutura de pasta de documentos e dar permissões para esses sites.
@@ -17,8 +15,9 @@
 ##Conectores Utilizados
 
 ## Visão
-
-![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/27449d941de1bc0c4642b9a03baa816bdc5cf478/DiagramaCriacaodeSitesParte1.jpg?raw=true)
+| Fluxo | Descrição | Link |
+|-------|------------|------|
+| Criação de Subsites | Automatiza a criação de Subsites com estrutura padrão para cada item adicionado a uma lista do Sharepoint |  [Ver fluxo](CriacaoDeSubsitesEPermissionamento) |
 
 
 
