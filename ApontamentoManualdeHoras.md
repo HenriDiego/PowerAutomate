@@ -57,3 +57,16 @@ O fluxo automatiza o processo de **apontamento manual de horas**, garantindo: <b
 - Controle centralizado via lista no SharePoint. <br>
 - Comunicação automática entre colaborador, gestor e equipe de Planejamento. <br>
 - Transparência no acompanhamento de status, funcionando como um painel de controle atualizado em tempo real. <br>
+
+## Visão
+
+![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte1.png?raw=true)
+![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte2.png?raw=true)
+![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte3.png?raw=true)
+![Diagrama4](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte4.png?raw=true)
+
+## Observações
+
+- Fluxo anonimizado para exemplo público.  
+- A estrutura de permissões garante acesso restrito por colaborador.  
+- Os anexos são manipulados via **Parse JSON** para compatibilidade com Forms.
