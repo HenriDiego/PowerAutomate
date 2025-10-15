@@ -15,9 +15,4 @@ Repositório público com exemplos e automações que desenvolvi no Power Automa
 
 ---
 
-##Boas práticas
-- Remova dados reais e conexões antes de publicar.
-- Use nomes genéricos para listas e usuários.
-- Inclua prints ou diagramas (sem dados sensíveis).
 
----
