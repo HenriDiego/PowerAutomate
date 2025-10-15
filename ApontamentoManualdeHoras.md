@@ -1,5 +1,4 @@
-# Apontamento Manual de Horas (Power Automate)
-
+# Apontamento Manual de Horas
 ## Objetivo
 
 Automatizar o processo de **apontamento manual de horas em projetos**, permitindo que colaboradores enviem solicitações de lançamento via **Microsoft Forms**, com **aprovação do gestor** e **atualização automática de status no SharePoint**.
