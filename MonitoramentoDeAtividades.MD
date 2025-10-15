@@ -1,16 +1,16 @@
-#Monitoramento de Atividades <br>
-##Objetivo
+# Monitoramento de Atividades <br>
+## Objetivo
 
 Garantir que os colaboradores do turno de operação estejam ativos e atentos durante o período de monitoramento das barragens, enviando perguntas aleatórias em intervalos irregulares e registrando o tempo de resposta. <br>
 
 O fluxo permite identificar possíveis falhas de atenção ou períodos de inatividade, especialmente no turno da noite.  <br>
 
-##Gatilho
+## Gatilho
 
 O fluxo é agendado e executado automaticamente a cada 30 minutos. <br>
 Antes de enviar a pergunta, ele gera um número aleatório entre 1 e 30, aguardando esse tempo adicional — o que cria um intervalo real entre 30 e 60 minutos entre as execuções.
 
-##Ações Principais
+## Ações Principais
 
 Gerar número aleatório (1–30) <br>
 Define o tempo de espera variável entre as execuções do fluxo.
@@ -60,7 +60,7 @@ Aplica uma condição para identificar se a resposta foi enviada dentro do prazo
 Enviar alerta ao gestor (caso de atraso ou ausência) <br>
 Se o colaborador não responder dentro do tempo limite, o fluxo envia um e-mail automático ao gestor informando o atraso.
 
-##Estrutura de Listas Utilizadas
+## Estrutura de Listas Utilizadas
 
 Turnos: guarda os horários de início/fim e o operador responsável. <br>
 
@@ -70,7 +70,7 @@ Operadores: informações cadastrais e dados de contato. <br>
 
 Respostas: registra todos os envios, respostas e tempos de reação. <br>
 
-##Resultado Esperado
+## Resultado Esperado
 
 Ao final de cada execução, o fluxo: 
 
