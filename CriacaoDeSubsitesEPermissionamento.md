@@ -15,9 +15,15 @@
 ##Conectores Utilizados
 
 ## Visão
-| Fluxo | Descrição | Link |
-|-------|------------|------|
-| Criação de Subsites | Automatiza a criação de Subsites com estrutura padrão para cada item adicionado a uma lista do Sharepoint |  [Ver fluxo](CriacaoDeSubsitesEPermissionamento) |
+
+
+[Diagrama1](DiagramaCriacaodeSitesParte1.png)
+
+
+[Diagrama2](DiagramaCriacaodeSitesParte2.png)
+
+
+[Diagrama3](DiagramaCriacaodeSitesParte3.png)
 
 
 
