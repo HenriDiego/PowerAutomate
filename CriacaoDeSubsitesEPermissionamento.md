@@ -10,22 +10,22 @@ O fluxo é iniciado quando um novo item é criado em uma lista específica do Sh
 
 ## Ações Principais
 
--Enviar solicitação HTTP ao SharePoint
+-Enviar solicitação HTTP ao SharePoint <br>
 Cria o subsite com base nas informações fornecidas na lista.
 
--Listar itens em uma tabela do Excel
+-Listar itens em uma tabela do Excel <br>
 Consulta uma planilha que contém a estrutura de pastas padrão a ser criada em cada subsite.
 
--Criar nova pasta
+-Criar nova pasta <br>
 Cria automaticamente as pastas listadas no Excel dentro da biblioteca de documentos do subsite.
 
--Obter metadados usando um caminho
+-Obter metadados usando um caminho <br>
 Recupera as propriedades e informações do item recém-criado para uso nas etapas seguintes.
 
--Permitir acesso a um item
-Aplica as permissões de acesso para os grupos definidos:
-Edição: usuários com permissão para modificar documentos e pastas.
-Visualização: usuários com acesso apenas para leitura.
+-Permitir acesso a um item <br>
+Aplica as permissões de acesso para os grupos definidos: <br>
+Edição: usuários com permissão para modificar documentos e pastas. <br>
+Visualização: usuários com acesso apenas para leitura. <br>
 
 ## Estrutura de Pastas
 
