@@ -79,3 +79,18 @@ Seleciona o colaborador ativo no turno.<br>
 Envia uma pergunta aleatória via Teams.<br>
 
 Calcula e registra o tempo de resposta.<br>
+
+## Visão
+
+![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/38a096af59fed63fbc9ee5387b02d1e2e8d59eee/Imagens/CMIParte1.png?raw=true)
+![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/38a096af59fed63fbc9ee5387b02d1e2e8d59eee/Imagens/CMIParte2.png?raw=true)
+![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/38a096af59fed63fbc9ee5387b02d1e2e8d59eee/Imagens/CMIParte3.png?raw=true)
+![Diagrama4](https://github.com/HenriDiego/PowerAutomate/blob/38a096af59fed63fbc9ee5387b02d1e2e8d59eee/Imagens/CMIParte4.png?raw=true)
+
+##Observações
+
+Fluxo anonimizado para exemplo público. <br>
+
+Intervalo de execução ajustável conforme necessidade operacional.<br>
+
+Pode ser integrado com Power BI para análise dos tempos de resposta.<br>
