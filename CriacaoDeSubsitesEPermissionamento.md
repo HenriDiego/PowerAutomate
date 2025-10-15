@@ -24,8 +24,8 @@ Recupera as propriedades e informações do item recém-criado para uso nas etap
 
 -Permitir acesso a um item <br>
 Aplica as permissões de acesso para os grupos definidos: <br>
-Edição: usuários com permissão para modificar documentos e pastas. <br>
-Visualização: usuários com acesso apenas para leitura. <br>
+**Edição:** usuários com permissão para modificar documentos e pastas. <br>
+**Visualização:** usuários com acesso apenas para leitura. <br>
 
 ## Estrutura de Pastas
 
