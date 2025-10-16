@@ -45,7 +45,7 @@ Como o Power Automate possui limite máximo de 30 dias por execução, ao final 
 
 Essa alteração dispara automaticamente o segundo fluxo, responsável por continuar o acompanhamento por mais 30 dias.
 
-##Resultado Esperado
+## Resultado Esperado
 
 O fluxo automatiza todo o follow-up de leads, garantindo: <br>
 
