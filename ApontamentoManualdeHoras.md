@@ -54,6 +54,10 @@ O fluxo é iniciado **quando uma resposta é submetida no Microsoft Forms**.
 
 O fluxo automatiza o processo de **apontamento manual de horas**, garantindo: <br>
 - Controle centralizado via lista no SharePoint. <br>
+
+![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/390c54aad4c2733c508edc97f5f3c193772336b6/Imagens/ApontamentoManualParte7.png?raw=true)
+
+
 - Comunicação automática entre colaborador, gestor e equipe de Planejamento. <br>
 - Transparência no acompanhamento de status, funcionando como um painel de controle atualizado em tempo real. <br>
 
