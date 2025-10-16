@@ -1,14 +1,14 @@
-#3Envio de E-mails Comerciais para Leads
-##Objetivo
+#Envio de E-mails Comerciais para Leads
+## Objetivo
 
 Automatizar o processo de nutrição e acompanhamento de leads comerciais, enviando sequências de e-mails em intervalos definidos e solicitando aprovação da equipe de vendas antes de cada novo contato.
 O objetivo é manter o relacionamento ativo com o lead, garantindo acompanhamento controlado e aumento da taxa de conversão.
 
-##Gatilho
+## Gatilho
 
 O fluxo é iniciado quando uma nova resposta é submetida no Microsoft Forms, que automaticamente cria um item na lista “Leads Comerciais” no SharePoint.
 
-##Ações Principais
+## Ações Principais
 
 Obter detalhes do lead
 O fluxo coleta os dados preenchidos no Forms (nome, e-mail, empresa, responsável comercial, etc.) e os grava na lista “Leads Comerciais” do SharePoint.
@@ -57,15 +57,18 @@ Acompanhamento centralizado via lista SharePoint. <br>
 
 Continuidade do acompanhamento mesmo após o limite de execução de 30 dias. <br>
 
-##Visão
+## Visão
 
 ![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/26ab610f367503d0e2f82eb5586835fd9d8dceaa/Imagens/EmailComercialParte1.png?raw=true)
 ![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/26ab610f367503d0e2f82eb5586835fd9d8dceaa/Imagens/EmailComercialParte2.png?raw=true)
 ![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/26ab610f367503d0e2f82eb5586835fd9d8dceaa/Imagens/EmailComercialParte3.png?raw=true)
+
+## Fluxo2
+
 ![Diagrama4](https://github.com/HenriDiego/PowerAutomate/blob/26ab610f367503d0e2f82eb5586835fd9d8dceaa/Imagens/EmailComercialParte4.png?raw=true)
 
 
-##Observações
+## Observações
 
 A integração entre Microsoft Forms e SharePoint garante entrada automatizada de novos leads. <br>
 
