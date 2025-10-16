@@ -66,10 +66,10 @@ O fluxo automatiza o processo de **apontamento manual de horas**, garantindo: <b
 
 ## Observações
 
-- Fluxo anonimizado para exemplo público.  
-- A estrutura de permissões garante acesso restrito por colaborador.  
-- Os anexos são manipulados via **Parse JSON** para compatibilidade com Forms.
--Pode ser integrado com Power BI para análise dos dados.
+- Fluxo anonimizado para exemplo público. <br>
+- A estrutura de permissões garante acesso restrito por colaborador. <br>
+- Os anexos são manipulados via **Parse JSON** para compatibilidade com Forms. <br>
+- Pode ser integrado com Power BI para análise dos dados. <br>
 
 ![Diagrama5](https://github.com/HenriDiego/PowerAutomate/blob/45889eb8f82dd18c648d02fd4b8baaa2a18c759e/Imagens/ApontamentoManualParte6.png?raw=true)
 
