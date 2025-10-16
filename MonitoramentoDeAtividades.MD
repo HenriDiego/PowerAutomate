@@ -94,3 +94,6 @@ Fluxo anonimizado para exemplo público. <br>
 Intervalo de execução ajustável conforme necessidade operacional.<br>
 
 Pode ser integrado com Power BI para análise dos tempos de resposta.<br>
+
+![Diagrama5](https://github.com/HenriDiego/PowerAutomate/blob/30df04d396495973d0fbba872e76a664ba43479e/Imagens/CMIParte5.png?raw=true)
+
