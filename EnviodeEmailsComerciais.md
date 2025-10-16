@@ -1,4 +1,4 @@
-#Envio de E-mails Comerciais para Leads
+# Envio de E-mails Comerciais para Leads
 ## Objetivo
 
 Automatizar o processo de nutrição e acompanhamento de leads comerciais, enviando sequências de e-mails em intervalos definidos e solicitando aprovação da equipe de vendas antes de cada novo contato.
