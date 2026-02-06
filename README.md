@@ -15,6 +15,7 @@ Repositório público com exemplos e automações que desenvolvi no Power Automa
 | Solicitação de Apontamento Manueal de Horas | Automatiza a solicitação de apontamento de horas, com aprovação do gestor, e paienl de visualisação |  [Ver fluxo](ApontamentoManualdeHoras.md) |
 | Monitoramento de Atividades | Um fluxo agendado para verificar se o colaborador esta atendo |  [Ver fluxo](MonitoramentoDeAtividades.MD) |
 | Envio de E-mails Comerciais para Leads | Automatizar o processo de nutrição e acompanhamento de leads comerciais |  [Ver fluxo](EnviodeEmailsComerciais.md) |
+| Envio de Comunicados Inbox via Teas | Enviar mensagem em massa via inbox para lista de contatos com imagem |  [Ver fluxo](Imagens/MensagensEmMassa.gif)
 
 ---
 
