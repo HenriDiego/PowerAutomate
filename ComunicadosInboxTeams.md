@@ -99,10 +99,10 @@ Os Adaptive Cards permitem:
 ## Imagens do Fluxo
 
 ### Visão Geral
-![Visão Geral do Fluxo](./imagens/visao-geral.png)
+![Visão Geral do Fluxo](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/FluxoCompleto.png?raw=true)
 
 ### Montagem do Card
-![Adaptive Card](./imagens/adaptive-card.png)
+![Adaptive Card](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/AdaptativeCard.png?raw=true)
 
 ### Loop de Envio
-![Loop de Envio](./imagens/loop-envio.png)
+![Loop de Envio](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/MensagensEmMassa.gif?raw=true)
