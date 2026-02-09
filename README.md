@@ -16,7 +16,7 @@ Repositório público com exemplos e automações que desenvolvi no Power Automa
 | Monitoramento de Atividades | Um fluxo agendado para verificar se o colaborador esta atendo |  [Ver fluxo](MonitoramentoDeAtividades.MD) |
 | Envio de E-mails Comerciais para Leads | Automatizar o processo de nutrição e acompanhamento de leads comerciais |  [Ver fluxo](EnviodeEmailsComerciais.md) |
 | Envio de Comunicados Inbox via Teams | Enviar mensagem em massa via inbox para lista de contatos com imagem |  [Ver fluxo](ComunicadosInboxTeams.md)
-
+| Monitoramento de Capacidade Storage SharePoint | Monitorar se a Capacidade de armazenamento do sharepoint está dentro do limite definido |  [Ver fluxo](MonitoramentoStorageSharePoint.md)
 ---
 
 
