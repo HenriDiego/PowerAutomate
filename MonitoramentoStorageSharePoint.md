@@ -131,7 +131,7 @@ Governança de ambiente
 ## Imagens do Fluxo
 
 ### Visão Geral
-![Visão Geral do Fluxo]([./imagens/storage-visao-geral.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/VisaoCompleta.png?raw=true))
+![Visão Geral do Fluxo](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/VisaoCompleta.png?raw=true)
 
 ### Parse e Compose
 ![Inicialização]([./imagens/storage-variaveis.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/ParseCompose.png?raw=true))
