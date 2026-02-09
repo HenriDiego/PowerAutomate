@@ -134,10 +134,10 @@ Governança de ambiente
 ![Visão Geral do Fluxo](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/VisaoCompleta.png?raw=true)
 
 ### Parse e Compose
-![Inicialização]([./imagens/storage-variaveis.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/ParseCompose.png?raw=true))
+![Inicialização](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/ParseCompose.png?raw=true)
 
 ### Solicitação HTTP Sharepoint
-![HTTP SharePoint]([./imagens/storage-http.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/GetHTTPSharepoint.png?raw=true))
+![HTTP SharePoint](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/GetHTTPSharepoint.png?raw=true)
 
 
 ### 8. Observações
