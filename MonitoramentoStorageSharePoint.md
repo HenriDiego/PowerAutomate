@@ -127,6 +127,19 @@ Integração com sistemas externos
 
 Governança de ambiente
 
+
+## Imagens do Fluxo
+
+### Visão Geral
+![Visão Geral do Fluxo]([./imagens/storage-visao-geral.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/VisaoCompleta.png?raw=true))
+
+### Parse e Compose
+![Inicialização]([./imagens/storage-variaveis.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/ParseCompose.png?raw=true))
+
+### Solicitação HTTP Sharepoint
+![HTTP SharePoint]([./imagens/storage-http.png](https://github.com/HenriDiego/PowerAutomate/blob/main/Imagens/GetHTTPSharepoint.png?raw=true))
+
+
 ### 8. Observações
 
 O limite percentual é configurável.
