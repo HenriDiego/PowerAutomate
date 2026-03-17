@@ -152,6 +152,16 @@ Prevenção de falhas recorrentes em ambiente produtivo
 
 ---
 
+### Imagens do Fluxo
+
+![Dashboard](./Imagens/ReincidenciasPART1.png)
+![Dashboard](./Imagens/ReincidenciasPART2.png)
+![Dashboard](./Imagens/ReincidenciasPART3Sim.png)
+![Dashboard](./Imagens/ReincidenciasPART6Sim.png)
+![Dashboard](./Imagens/ReincidenciasPART4Nao.png)
+![Dashboard](./Imagens/ReincidenciasPART5Nao.png)
+
+
 ## Monitoramento Gerencial (Power BI)
 
 Além da automação de criação de tickets, foi desenvolvido um **dashboard em Power BI** para permitir que gestores acompanhem a recorrência de incidentes de forma visual e analítica.
@@ -224,14 +234,5 @@ Reduz análise manual | Apoia tomada de decisão |
 
 ## Imagens do Dashboard
 
-### Visão Geral
-
 ![Dashboard](./Imagens/DashRecorrencias.png)
 
-### Ranking de Incidentes
-
-![Ranking](./Imagens/ranking_incidentes.png)
-
-### Tendência de Incidentes
-
-![Tendência](./Imagens/tendencia_incidentes.png)
