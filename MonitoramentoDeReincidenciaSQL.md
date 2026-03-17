@@ -226,7 +226,7 @@ Reduz análise manual | Apoia tomada de decisão |
 
 ### Visão Geral
 
-![Dashboard](./Imagens/dashboard_recorrencia.png)
+![Dashboard](./Imagens/DashRecorrencias.png)
 
 ### Ranking de Incidentes
 
