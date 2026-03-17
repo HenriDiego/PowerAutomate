@@ -57,9 +57,9 @@ Essa tabela permite identificar se a quantidade de ocorrências aumentou desde a
 
 A automação identifica incidentes recorrentes considerando:
 
-Categoria do ticket = _Incidente
+Categoria do ticket = "XXXXXX"
 
-Equipe responsável = SGN360
+Equipe responsável = "XXXXX"
 
 Período analisado = últimos 7 dias
 
