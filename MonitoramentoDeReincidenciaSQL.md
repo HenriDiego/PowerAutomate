@@ -72,10 +72,10 @@ Query utilizada
 SELECT 
     subject,
     COUNT(id) AS total
-FROM dbo.movidesk
+FROM dbo.Sistema
 WHERE 
-    category = '_Incidente'
-    AND ownerTeam = 'SGN360'
+    category = 'XXXX'
+    AND ownerTeam = 'XXXXX'
     AND createdDate >= DATEADD(DAY, -7, GETDATE())
 GROUP BY subject
 HAVING COUNT(id) >= 5
@@ -125,7 +125,7 @@ Estrutura do POST da API
   "type": "2",
   "subject": "[REINCIDENCIA] - @{items('Apply_to_each')?['subject']}",
   "description": "Foi identificada reincidência do alerta \"@{items('Apply_to_each')?['subject']}\".\n\nNos últimos 7 dias foram registradas @{items('Apply_to_each')?['total']} ocorrências.\n\nRecomenda-se análise técnica para mitigação e prevenção de novos eventos.",
-  "serviceFirstLevel": "Serviço Gerenciado ",
+  "serviceFirstLevel": "XXXXXXX ",
   "clients": [
     {
       "id": "INSIRA O ID AQUI"
