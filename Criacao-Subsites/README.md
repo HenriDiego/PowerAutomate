@@ -1,49 +1,93 @@
+# 📁 Criação de Subsites e Estrutura Padronizada com Permissionamento
 
-# 📁 Criação Automática de Subsites (SharePoint + Power Automate)
-
-## 📌 O que esse fluxo faz
-Automatiza a criação de subsites no SharePoint a partir de um item criado em uma lista.
+## 📌 Objetivo
+Automatizar a criação de subsites no SharePoint a partir de uma lista, incluindo estrutura de pastas padronizada e aplicação automática de permissões.
 
 ---
 
 ## 🎯 Problema
-A criação manual de subsites:
-- era repetitiva
-- sujeita a erros
-- não seguia um padrão consistente
+A criação manual de subsites e estrutura de pastas exigia atuação direta da equipe de T.I, envolvendo:
+
+- Criação manual de pastas uma a uma  
+- Aplicação manual de permissões por grupo  
+- Alto risco de erro (permissões incorretas ou ausentes)  
+- Tempo elevado de execução (podendo levar horas por solicitação)  
+
+Além disso, não havia garantia de padronização entre os ambientes criados.
 
 ---
 
-## ⚙️ Como funciona
-1. Um item é criado em uma lista do SharePoint  
-2. O fluxo é disparado automaticamente  
-3. Os dados do item são utilizados para:  
-   - criar o subsite  
-   - aplicar estrutura padrão  
-   - configurar permissões (se aplicável)  
+## ⚙️ Gatilho
+
+**When an item is created (SharePoint)**
+
+O fluxo é iniciado automaticamente quando um novo item é criado em uma lista do SharePoint.
+
+---
+
+## 🧩 Arquitetura da Solução
+
+O fluxo é dividido em quatro etapas principais:
+
+### 🔹 1. Criação do Subsite
+- Utiliza requisição HTTP para a API do SharePoint  
+- Cria o subsite dinamicamente com base nos dados da lista  
+- Define nome, URL, descrição e template  
+
+---
+
+### 🔹 2. Estrutura de Pastas via Excel
+- Consulta uma planilha Excel armazenada no SharePoint  
+- A planilha define a hierarquia padrão de pastas  
+- Permite manutenção da estrutura sem alterar o fluxo  
+
+---
+
+### 🔹 3. Criação automática de pastas
+- Percorre cada linha da tabela (loop)  
+- Cria as pastas na biblioteca de documentos  
+- Garante padronização entre todos os sites criados  
+
+---
+
+### 🔹 4. Aplicação de Permissões
+- Define acesso com base em grupos pré-configurados  
+- Tipos de acesso:
+  - **Edição:** usuários podem alterar conteúdo  
+  - **Visualização:** acesso somente leitura  
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 - Power Automate  
 - SharePoint Online  
+- SharePoint REST API (HTTP Request)  
+- Excel Online (Business)  
 
 ---
 
 ## ✅ Resultado
-- Padronização na criação de subsites  
-- Redução de tempo operacional  
-- Menor risco de erro manual  
+- Criação automatizada de subsites sem necessidade de intervenção da T.I  
+- Redução significativa do tempo de provisionamento (de horas para minutos)  
+- Eliminação de erros de permissão  
+- Padronização completa da estrutura de pastas  
+- Maior eficiência operacional e governança  
 
 ---
 
 ## 🖼️ Fluxo
-## 🖼️ Fluxo
 
-![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/9ac2fec1ff77b45be25a5381ed360650e5c132c7/DiagramaCriacaodeSitesParte1.png?raw=true)
+### 🔹 Criação do Subsite
+![Criação do site](Imagens/DiagramaCriacaoDeSitesParte1.png)
 
+### 🔹 Leitura da Estrutura
+![Leitura Excel](Imagens/DiagramaCriacaoDeSitesParte2.png)
 
-![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte2.png?raw=true)
+### 🔹 Criação das Pastas
+![Criação de pastas](Imagens/DiagramaCriacaoDeSitesParte3.png)
 
+---
 
-![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte3.png?raw=true)
+## ⚠️ Observações
+- Fluxo anonimizado para fins de portfólio  
+- Estrutura adaptável conforme necessidade do negócio  
