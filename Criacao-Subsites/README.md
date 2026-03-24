@@ -33,6 +33,7 @@ O fluxo é dividido em quatro etapas principais:
 - Utiliza requisição HTTP para a API do SharePoint  
 - Cria o subsite dinamicamente com base nos dados da lista  
 - Define nome, URL, descrição e template
+A criação do subsite é realizada via SharePoint REST API, permitindo maior controle do que as ações padrão do Power Automate.
 
 ##### 🔎 Exemplo de requisição HTTP
 
@@ -87,7 +88,7 @@ O fluxo é dividido em quatro etapas principais:
 
 ## ✅ Resultado
 - Criação automatizada de subsites sem necessidade de intervenção da T.I  
-- Redução significativa do tempo de provisionamento (de horas para minutos)  
+- Redução do tempo de provisionamento de horas para poucos minutos  
 - Eliminação de erros de permissão  
 - Padronização completa da estrutura de pastas  
 - Maior eficiência operacional e governança  
