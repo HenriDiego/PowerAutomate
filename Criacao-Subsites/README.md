@@ -32,7 +32,26 @@ O fluxo é dividido em quatro etapas principais:
 ### 🔹 1. Criação do Subsite
 - Utiliza requisição HTTP para a API do SharePoint  
 - Cria o subsite dinamicamente com base nos dados da lista  
-- Define nome, URL, descrição e template  
+- Define nome, URL, descrição e template
+
+##### 🔎 Exemplo de requisição HTTP
+
+```json
+{
+  "method": "POST",
+  "uri": "/_api/web/webinfos/add",
+  "body": {
+    "parameters": {
+      "__metadata": { "type": "SP.WebInfoCreationInformation" },
+      "Title": "<Título + OS>",
+      "Url": "<URL Site>",
+      "Description": "<Descrição>",
+      "WebTemplate": "BDR#0",
+      "UseUniquePermissions": false
+    }
+  }
+}
+```
 
 ---
 
