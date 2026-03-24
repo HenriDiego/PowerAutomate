@@ -54,9 +54,6 @@ O fluxo foi estruturado para automatizar todo o ciclo de solicitação:
 }
 ```
 
----
-
-
 ### 🔹 3. Tratamento de Anexos
 Os anexos enviados no Forms são tratados via Parse JSON
 Para cada arquivo:
