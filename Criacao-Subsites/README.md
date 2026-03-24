@@ -78,13 +78,13 @@ O fluxo é dividido em quatro etapas principais:
 ## 🖼️ Fluxo
 
 ### 🔹 Criação do Subsite
-![Criação do site](Imagens/DiagramaCriacaoDeSitesParte1.png)
+![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/9ac2fec1ff77b45be25a5381ed360650e5c132c7/DiagramaCriacaodeSitesParte1.png?raw=true)
 
-### 🔹 Leitura da Estrutura
-![Leitura Excel](Imagens/DiagramaCriacaoDeSitesParte2.png)
 
-### 🔹 Criação das Pastas
-![Criação de pastas](Imagens/DiagramaCriacaoDeSitesParte3.png)
+![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte2.png?raw=true)
+
+
+![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte3.png?raw=true)
 
 ---
 
