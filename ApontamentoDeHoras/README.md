@@ -59,7 +59,6 @@ Os anexos enviados no Forms são tratados via Parse JSON
 Para cada arquivo:
 O conteúdo é extraído
 O anexo é vinculado ao item no SharePoint
-
 ---
 
 ###🔹 4. Processo de Aprovação
