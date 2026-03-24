@@ -61,7 +61,8 @@ O conteúdo é extraído
 O anexo é vinculado ao item no SharePoint
 
 ---
-###🔹 4. Processo de Aprovação
+
+### 🔹 4. Processo de Aprovação
 O fluxo envia automaticamente uma solicitação ao gestor responsável
 Utiliza o conector Approvals
 
@@ -72,13 +73,13 @@ Decisões possíveis:
 
 ---
 
-###🔹 5. Encaminhamento para Planejamento
+### 🔹 5. Encaminhamento para Planejamento
 Apenas solicitações aprovadas seguem no fluxo
 O planejamento é acionado automaticamente para execução
 
 ---
 
-###🔹 6. Atualização de Status e Rastreabilidade
+### 🔹 6. Atualização de Status e Rastreabilidade
 O status da solicitação é atualizado ao longo do fluxo:
 Em análise
 Aguardando aprovação
@@ -86,7 +87,7 @@ Aprovado
 Rejeitado
 Concluído
 O colaborador pode acompanhar o andamento em tempo real
-###🔹 7. Notificações Automáticas
+### 🔹 7. Notificações Automáticas
 
 ---
 
@@ -106,14 +107,14 @@ Redução da dependência manual entre setores
 Maior transparência para o colaborador
 Controle centralizado via SharePoint
 Redução significativa do tempo de processamento
-##🖼️ Fluxo
+## 🖼️ Fluxo
 
 ![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte1.png?raw=true)
 ![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte2.png?raw=true)
 ![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte3.png?raw=true)
 ![Diagrama4](https://github.com/HenriDiego/PowerAutomate/blob/761b6d7b223f5885132a5fd8405061f7dd5a3871/Imagens/ApontamentoManualParte4.png?raw=true)
 
-##⚠️ Observações
+## ⚠️ Observações
 Fluxo anonimizado para fins de portfólio
 Controle de acesso implementado via HTTP para maior flexibilidade
 Tratamento de anexos via Parse JSON para compatibilidade com Forms
