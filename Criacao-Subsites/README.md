@@ -40,6 +40,10 @@ A criação manual de subsites:
 ## 🖼️ Fluxo
 ## 🖼️ Fluxo
 
-![Parte 1](Imagens/DiagramaCriacaoDeSitesParte1.png)
-![Parte 2](Imagens/DiagramaCriacaoDeSitesParte2.png)
-![Parte 3](Imagens/DiagramaCriacaoDeSitesParte3.png)
+![Diagrama1](https://github.com/HenriDiego/PowerAutomate/blob/9ac2fec1ff77b45be25a5381ed360650e5c132c7/DiagramaCriacaodeSitesParte1.png?raw=true)
+
+
+![Diagrama2](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte2.png?raw=true)
+
+
+![Diagrama3](https://github.com/HenriDiego/PowerAutomate/blob/d518b1407f243aee71c94d9cdf4390c7e178daec/DiagramaCriacaodeSitesParte3.png?raw=true)
