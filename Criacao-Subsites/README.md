@@ -1,19 +1,42 @@
 # 📁 Criação de Subsites e Estrutura Padronizada com Permissionamento
 
+##Visão Geral
+
+Automação para criação de subsites no SharePoint utilizando Microsoft Power Automate, permitindo que o time comercial crie ambientes de projeto de forma rápida e padronizada, sem depender da equipe de TI.
+
+---
+
 ## 📌 Objetivo
 Automatizar a criação de subsites no SharePoint a partir de uma lista, incluindo estrutura de pastas padronizada e aplicação automática de permissões.
 
 ---
 
 ## 🎯 Problema
-A criação manual de subsites e estrutura de pastas exigia atuação direta da equipe de T.I, envolvendo:
+A criação de subsites era feita manualmente pela TI sempre que um novo projeto era iniciado.
 
-- Criação manual de pastas uma a uma  
-- Aplicação manual de permissões por grupo  
-- Alto risco de erro (permissões incorretas ou ausentes)  
-- Tempo elevado de execução (podendo levar horas por solicitação)  
+Processo levava em média até 3 horas
+Dependência total da equipe de TI
+Alto volume de tickets operacionais
+Risco de inconsistência na configuração
 
-Além disso, não havia garantia de padronização entre os ambientes criados.
+---
+
+## ✅ Solução
+
+Desenvolvi uma automação que permite ao próprio time comercial iniciar a criação de subsites.
+
+Criação automatizada em 2 a 3 minutos
+Redução significativa de chamados para TI
+Padronização completa dos subsites
+Ganho direto de produtividade
+
+---
+
+
+## 📊 Impacto
+⏱️ Tempo reduzido: ~95% mais rápido
+📉 Menos carga operacional para TI
+⚡ Maior autonomia para o time comercial
 
 ---
 
